@@ -1,4 +1,4 @@
-# Luna VR - trying out A-Frame and AR.js
+# Luna AR - trying out A-Frame and AR.js
 
 ### Local Development
 
